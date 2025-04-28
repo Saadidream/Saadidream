@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my FYP - NeuroAssess an AI-Assisted Support for Neurodivergent Students**
 
-- 👨‍💻 All of my projects are available at [Saadidream](Saadidream)
+- 👨‍💻 All of my projects are available at [https://github.com/Saadidream)
 
 - 💬 Ask me about **Programming PF, OOP, Data Structures, Algorithms, Databases, Generative AI , Prompt Engineering , NLP , AI/ML**
 
