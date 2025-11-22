@@ -1,28 +1,162 @@
-<h1 align="center">Hi 👋, I'm Muhammad Saad Habib</h1>
-<h3 align="center">A passionate AI Engineer who have good practices of Software Development , LLM's and DevOps from Pakistan 🇵🇰</h3>
+# Hi 👋, I'm Muhammad Saad Habib
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadidream&label=Profile%20views&color=0e75b6&style=flat" alt="saadidream" /> </p>
+<div align="center">
+  
+  ### AI Engineer | Full-Stack Developer | DevOps Enthusiast
+  
+  *Building intelligent systems at the intersection of AI/ML, Software Engineering, and Cloud Infrastructure*
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saad-habib.netlify.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadhabib01)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadhabib811@gmail.com)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=saadidream&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadidream" alt="saadidream" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on **my FYP - NeuroAssess an AI-Assisted Support for Neurodivergent Students**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Saadidream)
+## 🚀 About Me
 
-- 💬 Ask me about **Programming PF, OOP, Data Structures, Algorithms, Databases, Generative AI , Prompt Engineering , NLP , AI/ML**
+I'm a **Software Engineer** with hands-on expertise in **AI/ML**, **Python automation**, **full-stack development**, and **DevOps**. Currently working as a Python Engineer (AI Engineer) at **Analytiverse**, where I build and maintain AI workflows, develop LLM evaluation systems, and optimize agentic AI pipelines.
 
-- 📫 How to reach me **saadhabib811@gmail.com**
+- 🔭 Recently graduated from **FAST NUCES** with a BS in Computer Science (CGPA: 3.16)
+- 🤖 Specialized in **LLM evaluation**, **RAG systems**, and **AI-powered applications**
+- ☁️ Experienced with **GCP**, **Docker**, **Kubernetes**, and **CI/CD pipelines**
+- 🧠 Passionate about using AI to solve real-world problems, especially in healthcare and education
+- 📚 Continuous learner with certifications from Stanford/DeepLearning.AI
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saadhabib01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadhabib01" height="30" width="40" /></a>
-<a href="https://instagram.com/m.saad.habib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.saad.habib" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 💼 Professional Experience
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadidream&show_icons=true&locale=en&layout=compact" alt="saadidream" /></p>
+**Python Engineer (AI Engineer)** @ Analytiverse | *Jun 2025 - Present*
+- Operated Google AI workflows on GCP, managing VM infrastructure and Docker-based automation
+- Developed Python scripts for LLM evaluation with 80%+ accuracy validation
+- Enhanced Colab notebooks for training Agentic AI pipelines
+- Implemented LLM-powered data transformation pipelines
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadidream&show_icons=true&locale=en" alt="saadidream" /></p>
+---
 
+## 🛠️ Featured Projects
+
+### 🧠 [NeuroAssess - AI Support for Neurodivergent Students](https://github.com/Saadidream/NeuroAssess-FYP)
+**MERN Stack • CNN • Docker • Hugging Face**
+
+AI-powered platform supporting neurodivergent learners through intelligent assessments. Features custom CNN for handwriting recognition to detect dyslexia/dysgraphia, role-based access control, and containerized deployment.
+
+### 🏥 [RAG-based Clinical Diagnostic System](https://github.com/Saadidream/RAG_DiRect_Analysis)
+**LangChain • Faiss • MIMIC-IV • Streamlit**
+
+Retrieval-Augmented Generation system using LangChain, Faiss vector database, and transformer models (Flan-T5, BART) for semantic search and clinical note summarization.
+
+### 🚀 [CI/CD Pipeline with Jenkins & Docker](https://github.com/Saadidream/CI-CD-Pipeline-of-Maven-DevOps-Project)
+**Jenkins • Docker • GitHub Actions • SonarQube**
+
+Complete DevOps pipeline featuring containerized Maven application, automated builds, testing, deployment orchestration, and code quality enforcement.
+
+### 💬 [CVInsight AI Chatbot](https://github.com/Saadidream/CV-Chatbot)
+**React • Django • Gemini AI • PostgreSQL**
+
+AI-powered application answering personalized questions from CV content with JWT authentication, deployed on Vercel and Render.
+
+---
+
+## 🔧 Technical Stack
+
+**Languages**
+```
+Python • JavaScript • C++ • SQL • TypeScript
+```
+
+**AI/ML & Data Science**
+```
+TensorFlow • PyTorch • Scikit-learn • Hugging Face • OpenAI APIs
+LangChain • RAG • Pandas • NumPy • OpenCV
+```
+
+**Backend & Frameworks**
+```
+FastAPI • Flask • Django • Express.js • Node.js
+```
+
+**Frontend**
+```
+React.js • Next.js • Redux • Tailwind CSS • Materialize
+```
+
+**Databases**
+```
+MongoDB • PostgreSQL • MySQL • SQLite
+```
+
+**Cloud & DevOps**
+```
+Docker • Kubernetes • Jenkins • GitHub Actions • Terraform
+AWS • GCP • Firebase • Nginx
+```
+
+**Tools & Others**
+```
+Git • Postman • Selenium • SonarQube • Bash • Linux
+```
+
+---
+
+## 📜 Certifications
+
+- **Supervised Machine Learning: Regression and Classification** - Stanford/DeepLearning.AI
+- **Advanced Learning Algorithms** - Stanford/DeepLearning.AI  
+- **Microsoft Ambassador Challenge: Python Exploration** - Microsoft Learn
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadidream&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadidream&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadidream&theme=tokyonight" alt="saadidream" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saadidream&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
+## 💡 Areas of Expertise
+
+- **AI/ML Engineering**: LLM evaluation, RAG systems, model training & deployment
+- **Full-Stack Development**: MERN stack, FastAPI, Django, React
+- **Cloud & DevOps**: Docker, Kubernetes, CI/CD, GCP, AWS
+- **Python Automation**: Workflow automation, data pipelines, API integration
+- **Database Design**: MongoDB, PostgreSQL, MySQL
+
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in collaborating on innovative AI/ML projects and discussing emerging technologies. Feel free to reach out!
+
+- 💼 **LinkedIn**: [saadhabib01](https://linkedin.com/in/saadhabib01)
+- 📧 **Email**: saadhabib811@gmail.com
+- 🌐 **Portfolio**: [saad-habib.netlify.app](https://saad-habib.netlify.app/)
+- 📱 **Phone**: (+92) 302-3791666
+
+---
+
+<div align="center">
+  
+  ### ⚡ "Building intelligent solutions, one commit at a time"
+  
+  ![Snake animation](https://github.com/saadidream/saadidream/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
