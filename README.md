@@ -4,12 +4,12 @@
   
   ### AI/ML Engineer | Full-Stack Developer | Cloud & DevOps Specialist
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+Analytiverse;LLM+Evaluation+%26+RAG+Systems;MERN+Stack+Developer;DevOps+%26+Cloud+Infrastructure;Building+Production-Grade+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+Analytiverse;LLM+Evaluation+%26+RAG+Systems;Full+Stack+Developer;DevOps+%26+Cloud+Infrastructure;Building+Production-Grade+AI+Solutions" alt="Typing SVG" />
   
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://saad-habib.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadhabib01)
   [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadhabib811@gmail.com)
-  [![Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://saad-habib.netlify.app/)
+  [![Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1OjK69Lwlnx4FW1NoAB8Y0hE2rxHxoLE8/edit?usp=sharing&ouid=106180899309034027760&rtpof=true&sd=true)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=saadidream&label=Profile%20Views&color=brightgreen&style=for-the-badge)
 
