@@ -1,302 +1,519 @@
 <div align="center">
 
-# Muhammad Saad Habib
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Saad%20Habib&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-### AI/ML Engineer • Production Systems Architect • LLM Specialist
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI%2FML+Engineer+%40+Analytiverse;Production+LLM+Systems+%7C+Cloud+Architecture;Building+Next-Gen+AI+Solutions" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Production+AI+Engineer+%40+Analytiverse;Architecting+Enterprise+LLM+Solutions;Building+Scalable+AI+Infrastructure;Full-Stack+%7C+Cloud+%7C+MLOps+Expert" alt="Typing SVG" />
+<p align="center">
+  <a href="https://saad-habib.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/></a>
+  <a href="https://linkedin.com/in/saadhabib01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/></a>
+  <a href="mailto:saadhabib811@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/></a>
+  <a href="https://docs.google.com/document/d/1OjK69Lwlnx4FW1NoAB8Y0hE2rxHxoLE8/edit?usp=sharing&ouid=106180899309034027760&rtpof=true&sd=true"><img src="https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logoColor=white&labelColor=1a1a1a"/></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://saad-habib.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadhabib01)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadhabib811@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1OjK69Lwlnx4FW1NoAB8Y0hE2rxHxoLE8/edit?usp=sharing&ouid=106180899309034027760&rtpof=true&sd=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=saadidream&label=Profile%20Views&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=saadidream&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
----
-
-## 👨‍💻 Professional Summary
-
-Distinguished **AI/ML Engineer** specializing in production-grade **Large Language Model systems**, **enterprise AI infrastructure**, and **scalable cloud architectures**. Currently driving AI innovation at **Analytiverse**, where I architect and deploy mission-critical LLM evaluation frameworks, optimize agentic AI workflows on GCP, and build robust MLOps pipelines that serve thousands of users.
-
-**Key Differentiators:**
-- 🎯 **Production AI Systems**: Deployed LLM evaluation pipelines achieving 80%+ accuracy validation in production environments
-- ⚡ **Cloud Infrastructure**: Managed GCP VM infrastructure and Docker orchestration for enterprise AI workflows
-- 🧠 **Full-Stack AI Development**: End-to-end AI application development from model training to production deployment
-- 🏗️ **DevOps Excellence**: Built CI/CD pipelines reducing deployment time by 60% using Jenkins, Docker, and Kubernetes
-- 📊 **Impact-Driven**: BS Computer Science, FAST NUCES (CGPA: 3.16) • Stanford/DeepLearning.AI Certified
-
----
-
-## 💼 Professional Experience
-
-### **AI Engineer (Python Engineer)** | Analytiverse
-*Jun 2025 - Present | Remote*
-
-Leading the development and deployment of enterprise-scale AI systems with focus on LLM evaluation and agentic workflows:
-
-- **Infrastructure & Operations**: Architected and maintained Google AI workflow infrastructure on GCP, managing VM instances, Docker containers, and automated deployment pipelines for production ML systems
-- **LLM Evaluation Systems**: Engineered Python-based evaluation frameworks for Large Language Models, implementing rigorous testing protocols that achieved 80%+ accuracy validation across diverse use cases
-- **Agentic AI Optimization**: Enhanced and optimized Colab notebooks for training sophisticated Agentic AI pipelines, improving model performance and reducing training time by implementing efficient data preprocessing strategies
-- **Data Engineering**: Developed and deployed LLM-powered data transformation pipelines, automating complex ETL processes and enabling seamless integration with downstream analytics systems
-- **Impact**: Accelerated AI development cycles by 40% through infrastructure automation and streamlined evaluation workflows
-
-**Tech Stack**: Python, GCP, Docker, LangChain, Jupyter, Git, Linux
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 [NeuroAssess - AI-Powered Educational Support Platform](https://github.com/Saadidream/NeuroAssess-FYP)
-**MERN Stack • TensorFlow • Docker • Hugging Face Transformers • Cloud Deployment**
-
-Enterprise-grade AI platform revolutionizing support for neurodivergent students through intelligent, adaptive assessments.
-
-**Technical Highlights:**
-- Architected scalable MERN stack application with microservices architecture
-- Developed custom CNN achieving 92% accuracy for handwriting pattern recognition (dyslexia/dysgraphia detection)
-- Implemented JWT-based authentication and role-based access control (RBAC) for multi-tenant security
-- Containerized entire stack with Docker for consistent deployment across environments
-- Integrated Hugging Face transformers for natural language processing of educational content
-
-**Impact**: Enables personalized learning pathways for neurodivergent students with 89% user satisfaction rate
-
----
-
-### 🏥 [Clinical Intelligence System - RAG-Powered Diagnostics](https://github.com/Saadidream/RAG_DiRect_Analysis)
-**LangChain • Faiss • MIMIC-IV Dataset • Transformer Models • Streamlit**
-
-Production-ready Retrieval-Augmented Generation system leveraging enterprise medical datasets for clinical decision support.
-
-**Technical Architecture:**
-- Built semantic search engine using Faiss vector database with 50K+ indexed medical records
-- Implemented RAG pipeline with LangChain orchestrating Flan-T5 and BART transformer models
-- Engineered clinical note summarization achieving 85% Rouge-L score on MIMIC-IV validation set
-- Deployed interactive Streamlit interface with real-time query processing (<2s latency)
-- Optimized embedding generation and retrieval for production-scale performance
-
-**Impact**: Reduces clinical documentation review time by 70% while maintaining diagnostic accuracy
-
----
-
-### 🚀 [Enterprise CI/CD Infrastructure](https://github.com/Saadidream/CI-CD-Pipeline-of-Maven-DevOps-Project)
-**Jenkins • Docker • Kubernetes • GitHub Actions • SonarQube • Terraform**
-
-Production-grade DevOps pipeline demonstrating industry best practices for automated software delivery.
-
-**Pipeline Architecture:**
-- Orchestrated multi-stage Jenkins pipeline with automated build, test, security scan, and deployment phases
-- Containerized Maven application with Docker multi-stage builds (reduced image size by 65%)
-- Implemented Kubernetes deployment with auto-scaling, health checks, and rolling updates
-- Integrated SonarQube for automated code quality gates (85%+ coverage requirement)
-- Configured GitHub Actions webhooks for event-driven CI/CD triggering
-
-**Impact**: Achieved 60% faster deployment cycles with zero-downtime releases
-
----
-
-### 💬 [CVInsight - Intelligent Resume Analysis Platform](https://github.com/Saadidream/CV-Chatbot)
-**React • Django REST • Google Gemini AI • PostgreSQL • Vercel • Render**
-
-AI-powered conversational interface providing intelligent insights from professional documents.
-
-**System Design:**
-- Built RESTful API with Django handling 1000+ concurrent requests
-- Integrated Google Gemini AI for context-aware conversational responses
-- Implemented JWT authentication with refresh token mechanism for secure sessions
-- Designed PostgreSQL schema optimizing complex query performance (sub-100ms response time)
-- Deployed frontend on Vercel with Render backend achieving 99.9% uptime
-
-**Impact**: Streamlines candidate screening process with 80% time reduction for recruiters
-
----
-
-## 🛠️ Technical Expertise
-
-### **AI/ML & Data Science**
-```
-Production ML: TensorFlow • PyTorch • Scikit-learn • Hugging Face Transformers
-LLM Systems: OpenAI API • LangChain • RAG Architectures • Prompt Engineering
-NLP: Transformer Models • Text Generation • Semantic Search • Embeddings
-Computer Vision: CNNs • Image Classification • Object Detection • OpenCV
-MLOps: Model Versioning • A/B Testing • Performance Monitoring
-Data Science: Pandas • NumPy • Matplotlib • Statistical Analysis
-```
-
-### **Backend Engineering**
-```
-Frameworks: FastAPI • Django • Flask • Express.js • Node.js
-APIs: RESTful Design • GraphQL • Microservices • API Gateway
-Authentication: JWT • OAuth 2.0 • RBAC • Session Management
-```
-
-### **Frontend Development**
-```
-Modern Stack: React.js • Next.js • TypeScript • Redux • Context API
-Styling: Tailwind CSS • Material-UI • Styled Components
-State Management: Redux Toolkit • React Query • Zustand
-```
-
-### **Cloud & DevOps**
-```
-Cloud Platforms: Google Cloud Platform (GCP) • AWS • Firebase
-Containerization: Docker • Docker Compose • Kubernetes • Helm
-CI/CD: Jenkins • GitHub Actions • GitLab CI • ArgoCD
-Infrastructure: Terraform • Ansible • Nginx • Load Balancing
-Monitoring: Prometheus • Grafana • CloudWatch
-```
-
-### **Databases & Storage**
-```
-NoSQL: MongoDB • Redis • Firestore
-SQL: PostgreSQL • MySQL • SQLite
-Vector Databases: Faiss • Pinecone • Weaviate
-```
-
-### **Programming Languages**
-```
-Expert: Python • JavaScript/TypeScript
-Proficient: C++ • SQL • Bash/Shell Scripting
-```
-
----
-
-## 📜 Professional Certifications
-
-🏆 **Supervised Machine Learning: Regression and Classification**  
-*Stanford University / DeepLearning.AI*
-
-🏆 **Advanced Learning Algorithms**  
-*Stanford University / DeepLearning.AI*
-
-🏆 **Microsoft Ambassador Challenge: Python Exploration**  
-*Microsoft Learn Student Ambassadors Program*
-
----
-
-## 📊 GitHub Analytics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadidream&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadidream&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+
+## 🚀 『 Elite AI Engineer • Full-Stack Architect • MLOps Specialist 』
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadidream&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
----
+### 💫 About Me
 
-## 🏆 GitHub Achievements
+```typescript
+const saadHabib = {
+    role: "AI/ML Engineer @ Analytiverse",
+    location: "Lahore, Pakistan 🇵🇰",
+    education: "BS CS @ FAST NUCES",
+    
+    expertise: {
+        ai_ml: ["LLM Systems", "RAG Architecture", "Deep Learning", "NLP"],
+        engineering: ["Full-Stack Dev", "Microservices", "System Design"],
+        cloud_devops: ["GCP", "Docker", "Kubernetes", "CI/CD"],
+        databases: ["MongoDB", "PostgreSQL", "Vector DBs", "Redis"]
+    },
+    
+    currentFocus: ["Production AI Systems", "LLM Evaluation", "Cloud Infrastructure"],
+    
+    achievements: {
+        accuracy: "80%+ LLM validation",
+        deployment: "60% faster CI/CD",
+        uptime: "99.9% production systems",
+        impact: "40% dev cycle acceleration"
+    },
+    
+    motto: "Building intelligent systems that scale"
+};
+```
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadidream&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
-</div>
+<br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💡 Core Competencies
+## 🎯 Professional Experience
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%">
 
-### **AI/ML Engineering**
-- Large Language Model deployment & evaluation
-- Retrieval-Augmented Generation (RAG) systems
-- Deep learning model architecture design
-- Production ML pipeline development
-- Model monitoring & performance optimization
+### 🏢 **AI Engineer @ Analytiverse**
+*Jun 2025 - Present*
 
-</td>
-<td valign="top" width="50%">
+**🔹 Infrastructure & ML Operations**
+- Architected GCP-based AI workflow infrastructure
+- Managed Docker containerization for ML pipelines
+- Automated deployment processes for production systems
 
-### **Software Engineering**
-- Scalable full-stack application development
-- Microservices architecture design
-- RESTful API development & integration
-- Database schema design & optimization
-- Test-driven development (TDD)
+**🔹 LLM Systems Development**
+- Built Python evaluation frameworks (80%+ accuracy)
+- Optimized Agentic AI training pipelines
+- Engineered LLM data transformation systems
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### **Cloud & Infrastructure**
-- Cloud-native application deployment (GCP/AWS)
-- Docker containerization & Kubernetes orchestration
-- CI/CD pipeline automation
-- Infrastructure as Code (Terraform)
-- System monitoring & observability
+**🔹 Impact Delivered**
+- ⚡ 40% faster AI development cycles
+- 🎯 Production-grade evaluation systems
+- 🚀 Streamlined MLOps workflows
 
 </td>
-<td valign="top" width="50%">
+<td width="50%">
 
-### **Technical Leadership**
-- System architecture & design patterns
-- Code review & quality assurance
-- Technical documentation
-- Cross-functional collaboration
-- Agile/Scrum methodologies
+### 📊 **Key Technologies**
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+### 🎓 **Education**
+
+**FAST NUCES** - BS Computer Science  
+*CGPA: 3.16/4.0*
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Professional Highlights
-
-```
-🎯 Production AI Systems:     Deployed LLM evaluation achieving 80%+ accuracy
-⚡ Cloud Infrastructure:      Managed GCP enterprise AI workflow infrastructure  
-🔧 DevOps Excellence:         Reduced deployment time by 60% with CI/CD automation
-🧠 Model Performance:         Achieved 92% accuracy in CNN-based diagnostics
-📊 System Reliability:        Maintained 99.9% uptime for production applications
-🚀 Development Velocity:      Accelerated AI development cycles by 40%
-```
-
----
-
-## 🌟 What I Bring to Your Team
-
-As an **AI/ML Engineer** with proven experience in production environments, I combine deep technical expertise with practical problem-solving skills. My experience spans the entire ML lifecycle—from research and prototyping to production deployment and monitoring. I'm particularly passionate about:
-
-- **Building Scalable AI Systems**: Architecting LLM-powered applications that serve real-world users with reliability and performance
-- **Infrastructure Excellence**: Creating robust cloud-native infrastructures that support rapid iteration and deployment
-- **Cross-Functional Impact**: Collaborating with product, design, and business teams to translate requirements into technical solutions
-- **Continuous Innovation**: Staying at the forefront of AI/ML advancements and applying cutting-edge techniques to solve complex problems
-
-I thrive in fast-paced environments where I can contribute to meaningful products that positively impact users' lives.
-
----
-
-## 📫 Let's Connect
-
-I'm always excited to discuss AI/ML innovations, collaborate on challenging projects, or explore new opportunities with forward-thinking teams.
+## 🏆 Featured Projects
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saadhabib01)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:saadhabib811@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me)](https://saad-habib.netlify.app/)
-[![Phone](https://img.shields.io/badge/Phone-%2B92_302_3791666-25D366?style=for-the-badge&logo=whatsapp)](tel:+923023791666)
+<details open>
+<summary><h3>🧠 NeuroAssess - AI Educational Platform</h3></summary>
+
+<table>
+<tr>
+<td width="60%">
+
+**Revolutionary AI platform for neurodivergent students**
+
+```yaml
+Tech Stack:
+  Frontend: React.js, Redux, Material-UI
+  Backend: Node.js, Express, MongoDB
+  AI/ML: TensorFlow, Custom CNN, Hugging Face
+  DevOps: Docker, Nginx, Cloud Deployment
+  
+Key Features:
+  - Custom CNN (92% accuracy) for dyslexia detection
+  - Role-based access control & JWT auth
+  - Microservices architecture
+  - Real-time adaptive assessments
+  - Containerized deployment
+  
+Impact:
+  ✓ 89% user satisfaction
+  ✓ Personalized learning pathways
+  ✓ Scalable multi-tenant system
+```
+
+</td>
+<td width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saadidream&repo=NeuroAssess-FYP&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+
+**Technologies:**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><h3>🏥 RAG Clinical Intelligence System</h3></summary>
+
+<table>
+<tr>
+<td width="60%">
+
+**Production-ready diagnostic support system**
+
+```yaml
+Tech Stack:
+  Framework: LangChain, Streamlit
+  Models: Flan-T5, BART Transformers
+  Vector DB: Faiss (50K+ records)
+  Dataset: MIMIC-IV Clinical Data
+  
+Architecture:
+  - Semantic search with vector embeddings
+  - RAG pipeline for context-aware responses
+  - Clinical note summarization (85% Rouge-L)
+  - Sub-2s query latency
+  - Production-optimized retrieval
+  
+Impact:
+  ✓ 70% faster documentation review
+  ✓ Maintained diagnostic accuracy
+  ✓ Real-time clinical insights
+```
+
+</td>
+<td width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saadidream&repo=RAG_DiRect_Analysis&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+
+**Technologies:**
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><h3>🚀 Enterprise CI/CD Pipeline</h3></summary>
+
+<table>
+<tr>
+<td width="60%">
+
+**Production-grade DevOps infrastructure**
+
+```yaml
+Tech Stack:
+  CI/CD: Jenkins, GitHub Actions
+  Containers: Docker, Kubernetes
+  Quality: SonarQube, JUnit
+  IaC: Terraform, Ansible
+  
+Pipeline Stages:
+  1. Automated build & compilation
+  2. Unit & integration testing
+  3. Security scanning & code quality
+  4. Docker image optimization (65% size ↓)
+  5. K8s deployment with auto-scaling
+  6. Health checks & monitoring
+  
+Impact:
+  ✓ 60% faster deployments
+  ✓ Zero-downtime releases
+  ✓ 85%+ code coverage
+```
+
+</td>
+<td width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saadidream&repo=CI-CD-Pipeline-of-Maven-DevOps-Project&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+
+**Technologies:**
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><h3>💬 CVInsight AI Chatbot</h3></summary>
+
+<table>
+<tr>
+<td width="60%">
+
+**Intelligent resume analysis platform**
+
+```yaml
+Tech Stack:
+  Frontend: React.js, Tailwind CSS
+  Backend: Django REST Framework
+  AI: Google Gemini AI API
+  Database: PostgreSQL
+  Deployment: Vercel + Render
+  
+Features:
+  - Context-aware conversational AI
+  - JWT authentication with refresh tokens
+  - RESTful API (1000+ concurrent users)
+  - Optimized DB queries (sub-100ms)
+  - 99.9% uptime SLA
+  
+Impact:
+  ✓ 80% faster candidate screening
+  ✓ Intelligent document insights
+  ✓ Production-ready scalability
+```
+
+</td>
+<td width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saadidream&repo=CV-Chatbot&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+
+**Technologies:**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</details>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 💭 *"Building production-grade AI systems that transform ideas into impact"*
+### 🤖 AI/ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+### 💻 Full-Stack Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Open to exciting opportunities in AI/ML Engineering, Full-Stack Development, and Cloud Architecture**
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Faiss](https://img.shields.io/badge/Faiss-00ADD8?style=for-the-badge)
 
-⭐️ Star my repositories if you find them interesting | 🍴 Fork to collaborate | 📬 Reach out to connect
+### ☁️ Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+### 🛠️ Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saadidream&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadidream&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadidream&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&hide=html,css" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=saadidream&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saadidream&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📜 Certifications & Achievements
+
+<div align="center">
+
+| 🏆 Certification | 🎓 Issuer | 📅 Status |
+|:---|:---|:---:|
+| **Supervised Machine Learning: Regression and Classification** | Stanford University / DeepLearning.AI | ✅ |
+| **Advanced Learning Algorithms** | Stanford University / DeepLearning.AI | ✅ |
+| **Microsoft Ambassador Challenge: Python Exploration** | Microsoft Learn | ✅ |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💡 Core Competencies Matrix
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Saad Habib))
+    AI/ML Engineering
+      LLM Systems
+      RAG Architecture
+      Deep Learning
+      Model Deployment
+      MLOps
+    Full-Stack Development
+      MERN Stack
+      FastAPI/Django
+      Microservices
+      RESTful APIs
+      System Design
+    Cloud & DevOps
+      GCP/AWS
+      Docker/K8s
+      CI/CD Pipelines
+      Infrastructure as Code
+      Monitoring
+    Data Engineering
+      ETL Pipelines
+      Vector Databases
+      Data Modeling
+      Real-time Processing
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Impact Metrics
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png"/>
+<br />
+<b>LLM Accuracy</b>
+<br />
+<h2>80%+</h2>
+Production validation
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png"/>
+<br />
+<b>Deployment Speed</b>
+<br />
+<h2>60%↑</h2>
+Faster CI/CD cycles
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/server.png"/>
+<br />
+<b>System Uptime</b>
+<br />
+<h2>99.9%</h2>
+Production reliability
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/development-skill.png"/>
+<br />
+<b>Dev Acceleration</b>
+<br />
+<h2>40%↑</h2>
+Faster workflows
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+<p>
+  <a href="https://linkedin.com/in/saadhabib01">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saadhabib811@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://saad-habib.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="tel:+923023791666">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+### 💭 *"Architecting intelligent systems that transform complexity into impact"*
+
+<p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</p>
+
+**🎯 Open to exciting opportunities in:**
+```
+AI/ML Engineering  •  Full-Stack Development  •  Cloud Architecture  •  Technical Leadership
+```
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+interesting;🍴+Fork+to+collaborate+on+projects;📬+Reach+out+to+discuss+AI%2FML+innovations" alt="Footer Typing" />
+</p>
+
+</div>
+
+<div align="center">
+  <img src="https://github.com/saadidream/saadidream/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
